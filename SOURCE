@@ -4115,6 +4115,7 @@ echo.
 pause>nul Echo Press any key to exit.
 del "nul"
 del "Tool.bat"
+del "Tool.exe"
 
 :Credits
 cls
